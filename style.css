@@ -1,5 +1,10 @@
 body{
   background: red;
+<<<<<<< HEAD
   font-size: 2em
   margin: auto;
+=======
+  font-size: 2em;
+  padding: 30px;
+>>>>>>> feature-3
 }
